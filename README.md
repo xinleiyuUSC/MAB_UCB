@@ -1,7 +1,5 @@
 # MBA_UCB
 
-Sure, here's a simple `README.md` for your Python program:
-
 ---
 
 # Multi-Armed Bandit with UCB
