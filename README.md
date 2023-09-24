@@ -1,4 +1,4 @@
-# MBA_UCB
+# MAB_UCB
 
 ---
 
