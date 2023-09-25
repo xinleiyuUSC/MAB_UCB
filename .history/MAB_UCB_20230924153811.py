@@ -135,3 +135,5 @@ def main():
     plot_3d_data(bandit.arm_comfort_data, bandit.arm_continuity_data)
     save_to_csv(bandit.arm_comfort_data, bandit.arm_continuity_data)
 
+if __name__ == "__main__":
+    main()
